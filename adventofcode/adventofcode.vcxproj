@@ -167,6 +167,8 @@
     <Text Include="day18_test.txt" />
     <Text Include="day19.txt" />
     <Text Include="day19_test.txt" />
+    <Text Include="day20.txt" />
+    <Text Include="day20_test.txt" />
     <Text Include="day4.txt" />
     <Text Include="day5.txt" />
     <Text Include="day7.txt" />
