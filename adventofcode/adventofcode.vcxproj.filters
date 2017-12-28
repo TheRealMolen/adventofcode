@@ -91,5 +91,17 @@
     <Text Include="day20_test.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="day21.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="day21_test.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="day22.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="day22_test.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
