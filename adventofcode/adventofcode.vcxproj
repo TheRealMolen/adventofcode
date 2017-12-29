@@ -173,6 +173,7 @@
     <Text Include="day21_test.txt" />
     <Text Include="day22.txt" />
     <Text Include="day22_test.txt" />
+    <Text Include="day23.txt" />
     <Text Include="day4.txt" />
     <Text Include="day5.txt" />
     <Text Include="day7.txt" />
